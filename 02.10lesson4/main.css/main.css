@@ -1,0 +1,26 @@
+span{
+color:rgb(59, 159, 165);
+}
+.main{
+ width: 1800px;
+ height: 800px;
+  border-spacing: 25px;
+  margin:15px auto;
+}
+table{
+    background-color:#EECC6C ;
+}
+.main-left, main-rightr{
+    margin: 0.15px;
+}
+.main-left{
+    width: 450px;
+    border: 1px solid black;
+}
+.main-rightr{
+    width: 1250px;
+    border: 1px solid black;
+}
+li{
+    list-style-type: none;
+}

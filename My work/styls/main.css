@@ -1,0 +1,59 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+.sprint{
+    background-color:rgb(213, 216, 215);
+    width: 800px;
+    height: 500px;
+    border-radius: 5%;
+    margin: 50px;
+    padding: 50px;
+    display: flex;
+    justify-content: flex-start ;
+    margin: auto;
+}
+.sprint:hover{
+    background-color:rgb(144, 209, 189);
+}
+.lesson1{
+    background-color:rgb(213, 216, 215);
+    width: 200px;
+    height: 105px;
+    border-radius: 5%;  
+}
+.lesson1:hover{
+    background-color:rgb(144, 191, 209);}
+.lesson2{
+    background-color:rgb(213, 216, 215);
+    width: 200px;
+    height: 105px;
+    border-radius: 5%;  
+    }
+    .lesson2:hover{
+    background-color:rgb(144, 191, 209);}    
+.lesson3{
+    background-color:rgb(213, 216, 215);
+    width: 200px;
+    height: 105px;
+    border-radius: 5%;  
+}
+.lesson3:hover{
+    background-color:rgb(144, 191, 209);}
+.lesson4{
+    background-color:rgb(213, 216, 215);
+    width: 200px;
+    height: 105px;
+    border-radius: 5%;  
+}
+.lesson4:hover{
+    background-color:rgb(144, 191, 209);}
+    .lesson5{
+    background-color:rgb(213, 216, 215);
+    width: 200px;
+    height: 105px;
+    border-radius: 5%;  
+}
+.lesson5:hover{
+    background-color:rgb(144, 191, 209);}
