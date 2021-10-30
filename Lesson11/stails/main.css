@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box1{
+    width: 200px;
+    height: 100px;
+    background-color: #ccc;
+    border: 2px solid #555;
+    text-align: center;
+    line-height:  100px;
+    margin-bottom: 10px;
+}
+.box1{
+    position: static;
+}
+.box2{
+    width: 200px;
+    height: 100px;
+    background-color: #ccc;
+    border: 2px solid #555;
+    text-align: center;
+    line-height:  100px;
+    margin-bottom: 10px;
+}
+.box2{
+    position: fixed;
+}
+.box3{
+    width: 200px;
+    height: 100px;
+    background-color: #ccc;
+    border: 2px solid #555;
+    text-align: center;
+    line-height:  100px;
+    margin-bottom: 10px;
+}
+.box3{
+    position: relative;
+    top: 150px;
+    left: 200px;
+}
+.box4{
+    width: 200px;
+    height: 100px;
+    background-color: #ccc;
+    border: 2px solid #555;
+    text-align: center;
+    line-height:  100px;
+    margin-bottom: 10px;
+}
+.box4{
+    position: absolute;
+}
+.flag{
+    width: 1000px;
+    height: 750px;
+    border: 2px solid #555;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 400px;
+    top: 1000px;
+    
+}
+.circle{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(114, 8, 8);
+    border-radius:50%;
+}
+.Instagram{
+    width: 500px;
+    height: 500px;
+background: -webkit-linear-gradient(225deg, rgb(128, 0, 255), rgb(206, 0, 255), rgb(255, 202, 0));
+    position: absolute;
+    top:400px;
+    left:1300px;
+    border-radius:20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+}
+.linia{
+    width: 350px;
+    height: 350px;
+    border: 25px solid white;
+    border-radius:23%;
+}
+.krug{
+    width: 150px;
+    height: 150px;
+    border: 20px solid white;
+    border-radius:50%;
+    position: absolute;
+    top: 175px;
+    left: 175px;
+}
+.tojka{
+    width: 40px;
+    height: 40px;
+    border-radius:50%;
+    border:20px solid white;
+    position: absolute;
+    right:120px;
+    top: 120px;
+}
+.karandash{
+    
+}
