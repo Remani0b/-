@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 10px;
+    background-color: gray;
+}
+.bl{
+    width: 500px;
+    border-width: 2px;
+    border-color:black;
+    background-color: aliceblue;
+}
